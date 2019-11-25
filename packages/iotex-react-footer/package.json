@@ -71,7 +71,7 @@
     "@babel/register": "7.7.0",
     "@types/node": "11.13.10",
     "@types/react-test-renderer": "16.8.1",
-    "antd": "3.16.6",
+    "antd": "3.25.3",
     "ava": "2.4.0",
     "awesome-typescript-loader": "5.2.1",
     "babel-loader": "8.0.6",
@@ -104,7 +104,7 @@
   },
   "peerDependencies": {
     "@types/react": "^16.8.11",
-    "antd": "3.16.6",
+    "antd": "3.25.3",
     "onefx": "1.5.3",
     "react": "^16.8.6",
     "styletron-engine-atomic": "^1.1.0"
